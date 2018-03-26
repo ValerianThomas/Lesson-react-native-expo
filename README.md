@@ -73,8 +73,8 @@ import {View,Text} from 'react-native';
 class Boilerplate extends React.Component{
 	render(){
 		return(
-			 <<View>
-			<</View>
+			 <View>
+			</View>
 			)
 	}
 }
