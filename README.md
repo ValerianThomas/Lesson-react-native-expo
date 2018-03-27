@@ -85,7 +85,7 @@ export default Boilerplate;
 ### StyleSheet
 
 ```javascript
-cpnst styles=StyleSheet.create({
+const styles=StyleSheet.create({
 	style1:{},
 	style2:{},
 	  ...
