@@ -85,7 +85,7 @@ export default Boilerplate;
 ### StyleSheet
 
 ```javascript
-cpnst styles=StyleSheet.Create({
+cpnst styles=StyleSheet.create({
 	style1:{},
 	style2:{},
 	  ...
