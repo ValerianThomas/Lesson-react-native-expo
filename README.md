@@ -56,7 +56,7 @@ cd [le nom de votre app]
 et enfin démarrez l’app
 
 ```
-cd [le nom de votre app]
+npm start [le nom de votre app]
 ```
 
 
